@@ -132,3 +132,14 @@ BMW M4 Competition Frankfurt €449–499 (~€900+) · BMW M3/M3 Touring Frankf
 | [sportwagen-mieten.de](https://www.sportwagen-mieten.de/shop/standorte/frankfurt-am-main/) | Frankfurt "ab €179" ⚠️ |
 
 **Hierarquia de confiabilidade:** Sixt/Europcar (termos corporativos, sem surpresa na caução) > especialistas com frota própria > marketplaces (DRIVAR incluída — a experiência depende do parceiro individual; avaliações do anúncio importam).
+
+## Auditoria de reputação (loop de 28/08 — fontes: Trustpilot/ProvenExpert/agregadores)
+
+| Plataforma | Reputação | Variedade | Veredito |
+|---|---|---|---|
+| **CarVia** (frota própria, 2017, München+Stuttgart) | Trustpilot ~80 reviews, majoritariamente positivas (devolução rápida de caução; 1 queixa de reembolso) ⚠️ | 150+ carros: Boxster, 911, Porsche Turbo, M3 Touring, M5, RS6, Ferrari | **Melhor combinação reputação × variedade × preço.** Modelo garantido (não "ou similar"), seguro incluso, cancelamento grátis até 1 semana antes, entrega no hotel. **Stuttgart: Boxster ab €149/dia, M3 Touring ab €216/dia** ⚠️ [carvia.com, 28/08] |
+| DRIVAR (marketplace) | **4,7/5 em 440 avaliações** agregadas (Google/Trustpilot/Kununu); Trustpilot ~4/5 (92 reviews) ✅ | a maior: 1.000+ carros, 50+ cidades | Marketplace mais bem avaliado; mas condições variam por parceiro |
+| Sixt (corporativa) | Trustpilot ~4/5 com milhares de reviews; caução devolvida em horas ✅ | esportivos limitados e dinâmicos (911 GTS, M3/M5) | Confiabilidade máxima; variedade menor; cotar por data |
+| mietedeinsportauto.de | **sem pegada de avaliações** (ProvenExpert: 0 reviews) ❌ | 300+ carros | Preços atraentes (M2 CS €229), mas reputação não verificável — **rebaixado**: só com pesquisa adicional do parceiro específico |
+
+**Conclusão da auditoria:** para este trip, **CarVia Stuttgart** passa a ser a plataforma recomendada nº 1 (frota própria bem avaliada + M3 Touring ~€432/fds, muito abaixo do teto), com DRIVAR como fonte alternativa de carros específicos e Sixt como fallback de máxima previsibilidade.
