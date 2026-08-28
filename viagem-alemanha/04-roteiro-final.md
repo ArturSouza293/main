@@ -18,6 +18,12 @@ Legenda: ✅ verificado (fonte, 28/08/2026) · ⚠️ estimado — confirmar na 
 | ~18:4x–18:5x ⚠️ | **Eurostar direto → Köln Hbf** | comprar cedo — Eurostar sobe de preço rápido ⚠️; leve o da tarde anterior como plano B se o horário real não servir |
 | ~22:15 ⚠️ | Chegada Köln · hotel a pé da Hbf (catedral do lado) | sem carro esta noite; garagem desnecessária |
 
+**Hotéis sugeridos p/ sexta (pedir a entrega do carro no endereço escolhido):**
+- **Econômico — [ibis Köln am Dom](https://all.accor.com/hotel/0739/index.en.shtml)** (~€70–100 ⚠️): integrado à própria Hbf — você desce do Eurostar e está "em casa"; ponto de entrega: Breslauer Platz (lado norte da estação, acessível de carro).
+- **OK — Wyndham Köln** (Breslauer Platz 2, ~€120–150 ⚠️): na praça atrás da Hbf, com acesso de carro na porta — o ponto de encontro mais cômodo para a entrega.
+- **Premium — Excelsior Hotel Ernst** (Trankgasse 1-5, ~€250+ ⚠️): 5★ de frente para o Dom/Hbf, com driveway e concierge para receber o carro.
+Em todos: reservar com cancelamento grátis e **só depois de o parceiro DRIVAR confirmar carro + entrega**; passar ao parceiro o endereço do hotel + seu WhatsApp.
+
 ## Sábado 19/09 — Köln → vale do Ahr → Nürburgring → Mosel (~190 km)
 
 | Hora | O quê | Notas |
