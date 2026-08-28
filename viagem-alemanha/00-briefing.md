@@ -61,8 +61,13 @@ Sempre que houver opções com custo, apresentar em três níveis com preço:
 | Custo | 15% |
 | Risco/complexidade | 10% |
 
-### Rodada 3 — Ritmo e conforto
-_(pendente)_
+### Rodada 3 — Ritmo e conforto (respondida em 28/08/2026)
+
+1. **Km/dia: confortável, "sem exageros", sem dirigir horas sem parar.** Adotado como teto de planejamento: ~300 km no sábado, ~180 km no domingo, pausa a cada ~1h30–2h. Rotas com muita curva contam menos km no mesmo tempo — o plano prioriza qualidade de trecho, não quilometragem.
+2. **Hotel: com garagem, pode ser simples, mas bem localizado.** Garagem (fechada de preferência) é requisito por causa do carro; localização > luxo. Apresentar nos 3 níveis, com o nível Econômico/OK como recomendação padrão.
+3. **Refeição: sem importância** ("me viro com o que der"). Nenhuma parada gastronômica planejada; comer entra como folga na timeline, não como módulo.
+4. Se chover: **troca por módulo indoor (museu)** — default aceito.
+5. **GPX da rota final: sim** — default aceito.
 
 ### Rodada 4 — Documentos e risco
 _(pendente)_
