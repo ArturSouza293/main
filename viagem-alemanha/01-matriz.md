@@ -61,4 +61,6 @@
 
 ## Combinações testadas
 
-_(nenhuma — o /loop ainda não rodou; ver 02-loop-log.md)_
+| Iteração | Combinação | Resultado |
+|---|---|---|
+| I1 | C2 (911 Carrera 4S, Stuttgart) × R1 Schwarzwald + M4/M3/M5 | score 8,2 — líder atual |
