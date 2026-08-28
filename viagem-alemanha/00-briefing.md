@@ -1,6 +1,6 @@
 # 00 — Briefing
 
-**Status:** ✅ **CONFIRMADO pelo Artur em 28/08/2026.** /goal ativo. Próxima etapa: matriz de candidatos (01-matriz.md) e /loop.
+**Status:** ✅ **CONCLUÍDO em 28/08/2026.** Briefing confirmado → /loop rodou 9 iterações → top-3 estável → **Artur escolheu o Pacote A (911 Carrera 4S × Schwarzwald + Porsche Museum)** → roteiro final (04), checklist (05) e rota.gpx entregues. Falta só executar as reservas (ordem em 05-checklist.md).
 
 ## Premissas conhecidas (seção 2 do prompt — a confirmar)
 
