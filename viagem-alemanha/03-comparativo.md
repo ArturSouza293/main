@@ -1,32 +1,40 @@
-# 03 — Comparativo (top-3 atual)
+# 03 — Comparativo FINAL (loop encerrado em 28/08/2026)
 
-**Atualizado após revisão do TGV 17:54 (28/08/2026).** Estabilidade do top-3: 0/3 iterações sem mudança. **Regra nova:** nenhuma partida de Paris antes de ~18h; sexta padrão = TGV → Strasbourg + pernoite + trem curto sábado cedo.
+**Critério de parada atingido:** top-3 estável por 3 iterações consecutivas (I7, I8, I9), após 9 iterações e 3 revisões de restrição. **Recomendação em uma frase: Pacote A — Porsche 911 Carrera 4S × Schwarzwald + Porsche Museum (I6).**
 
-## Top-3
+## Top-3 final
 
-| Pos | Pacote | Nível | Score | Custo total est. | Status |
+| Pos | Pacote | Nível | Score | Custo total ⚠️ | Caução ⚠️ |
 |---|---|---|---|---|---|
-| 1 | **I1 — Porsche 911 Carrera 4S × Schwarzwald (B500)**, base Stuttgart via Strasbourg | Econômico | 8,0 | ~€980–1.150 ⚠️ | líder (rev.) |
-| 2 | I3 — Audi RS3 × Schwäbische Alb + Porsche Museum, base Stuttgart via Strasbourg | Econômico | 7,9 | ~€980–1.110 ⚠️ | testado |
-| 3 | I2 — Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe via Strasbourg | OK | 7,5 | ~€1.200–1.320 ⚠️ | testado (rev.) |
+| **1º — A** | **911 Carrera 4S × Schwarzwald (B500) + Porsche Museum**, base Stuttgart via Strasbourg (I6) | Econômico | **8,2** | ~€1.000–1.170 | ~€1.000–2.500 |
+| 2º — B | Audi RS3 × Schwäbische Alb + Porsche Museum + Hohenzollern, base Stuttgart via Strasbourg (I3) | Econômico | 7,9 | ~€980–1.110 | ~€1.000 |
+| 3º — C | Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe via Strasbourg (I2) | OK | 7,5 | ~€1.200–1.320 | ~€1.000–2.000 |
 
-## Prós/contras — I3
+Todos os valores são ⚠️ estimativas de busca (drivar.de bloqueado na rede da sessão); os links dos anúncios estão em 01-matriz.md para verificação final. Disponibilidade em 18–20/09 não confirmada em nenhum. Caução é valor imobilizado, não gasto — **confirmar aceitação de Amex com o parceiro antes de reservar é o item nº 1 da checklist**.
 
-**Prós:** pacote mais completo do funil (Porsche Museum ✅ + Burg Hohenzollern + Lochenpass sem motos ✅ + Autobahn A81 + trem direto de volta domingo); mais barato; RS3 AWD = zero estresse com chuva; caução menor.
-**Contras:** RS3 é o carro menos especial dos testados até aqui — pelo preço do 911 C4S (I1), entrega menos emoção; Alb tem cenário mais suave que a B500.
+## Por que o Pacote A vence
 
-## Prós/contras — I2
+- **Porsche é o seu sonho declarado** — e este pacote entrega o carro E o museu da marca no mesmo dia, pelo preço de um RS3.
+- B500 Schwarzwaldhochstraße é a melhor combinação curva+cenário da matriz (suas prioridades 1 e 2), com módulo Autobahn A81 no domingo (prioridade 3).
+- 250 km/dia inclusos cobrem a rota inteira (margem zero — vigiar odômetro ⚠️).
+- Custo no nível Econômico: ~€1.000–1.170 total.
+- Riscos: sábado cheio (museu + B500 no mesmo dia); retirada ~9h15 e devolução dom. ~15h30 a confirmar com o parceiro ⚠️; Amex ⚠️.
 
-**Prós:** V8 aspirado de capota aberta na B500 (fator "car lover" alto); porta mais perto de Paris (~2h30 de TGV); 250 km/dia inclusos.
-**Contras:** €230–350 mais caro que a I1 com carro de menos prestígio dinâmico; retorno de domingo depende de conexão via Strasbourg ⚠️ (uma fonte nega direto no fim de semana); mesmos riscos de retirada/Amex.
+## Quando escolher B ou C
 
-## Prós/contras — I1
+- **B (RS3 × Alb):** se você preferir zero estresse — AWD à prova de chuva, caução menor, dia mais folgado, castelo Hohenzollern — aceitando um carro menos especial. É o mais barato e o de menor risco.
+- **C (Mustang GT Cabrio):** se a vibe V8 aspirado de capota aberta valer +€200 e um carro menos preciso nas curvas; porta Karlsruhe é a mais perto de Paris.
 
-**Prós:** Porsche (o sonho) no nível econômico; B500 + Schauinsland = melhor combinação curva+cenário; 250 km/dia inclusos cobrem a rota; TGV direto; devolução domingo 15h30 com folga p/ trem seguro das ~17:52.
-**Contras:** último TGV direto de sexta sai **17:54** (6 min antes do limite do briefing — precisa de ok do Artur); horário de retirada/devolução do parceiro não confirmado ⚠️; aceitação de Amex na caução não confirmada ⚠️; sem módulo museu (opcional: Porsche Museum sáb. 9h antes de sair, +1h30).
+## Descartados (resumo)
 
-## Próximas combinações na fila
+| Pacote | Score | Motivo |
+|---|---|---|
+| 911 Carrera S Cabrio × Schwarzwald (I7) | 7,9 | Empata com B mas custa +€300; perde no desempate por custo |
+| RS3/AMG × Alpes-Munique (I8) | 7,5 | Só de avião; logística come a janela; confirma que R5 não cabe em fim de semana |
+| M4 Competition × Taunus (I4) | 7,3 | 150 km/dia inclusos punem a rota; retorno de domingo aperta; Taunus < B500 |
+| AMG GT 63 × Taunus (I5) | 7,2 | O "custo do sonho": ~€2.000 + caução €5.000+; não passa no critério frugal |
+| Mustang 1965 × Schwarzwald (I9) | 6,6 | Clássico de 60 anos em 450 km de serra solo: risco alto demais |
 
-1. I4 — C6 BMW M4 Competition (Frankfurt) × R4 Taunus/Rheingau — terceira porta.
-2. I5 — Premium: C8 AMG GT 63 (Frankfurt) × R4 — quantificar o "sonho caro".
-3. I6 — refinamento do líder: 911 C4S × R1 com módulo Porsche Museum no sábado cedo (une o melhor de I1 e I3).
+## Próximo passo
+
+O Artur escolhe A, B ou C → eu escrevo `04-roteiro-final.md` (hora a hora, links, plano B), `05-checklist.md` e o `rota.gpx`.

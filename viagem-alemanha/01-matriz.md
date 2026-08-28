@@ -64,5 +64,13 @@
 | Iteração | Combinação | Resultado |
 |---|---|---|
 | I1 | C2 (911 Carrera 4S, Stuttgart) × R1 Schwarzwald + M4/M3/M5 | score 8,2 — líder atual |
-| I2 | C5 (Mustang GT Cabrio, Karlsruhe) × R1 Schwarzwald + M4/M5 | score 7,5 — 3º lugar |
-| I3 | C1 (Audi RS3, Stuttgart) × R2 Schwäbische Alb + M1/M3/M4/M5 | score 7,9 — 2º lugar |
+| I2 | C5 (Mustang GT Cabrio, Karlsruhe) × R1 Schwarzwald + M4/M5 | score 7,5 — **3º final (Pacote C)** |
+| I3 | C1 (Audi RS3, Stuttgart) × R2 Schwäbische Alb + M1/M3/M4/M5 | score 7,9 — **2º final (Pacote B)** |
+| I4 | C6 (M4 Competition, Frankfurt) × R4 Taunus/Rheingau + M4/M6/M5 | score 7,3 — descartado |
+| I5 | C8 (AMG GT 63, Frankfurt) × R4 Taunus/Rheingau | score 7,2 — descartado (custo) |
+| I6 | C2 (911 C4S, Stuttgart) × R1 Schwarzwald + M1 museu | score 8,2 — **1º final (Pacote A)** |
+| I7 | C3 (911 Carrera S Cabrio, Stuttgart) × R1 + M1 | score 7,9 — descartado (custo vs. I6) |
+| I8 | (München) × R5 Alpes — sanity check | score 7,5 — descartado (logística de avião) |
+| I9 | C7 (Mustang 1965, Stuttgart) × R1 | score 6,6 — descartado (risco de clássico) |
+
+**Matriz encerrada em 28/08/2026** — loop parado por estabilidade do top-3 (3 iterações sem mudança).
