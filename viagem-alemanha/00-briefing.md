@@ -1,6 +1,6 @@
 # 00 — Briefing
 
-**Status:** ⏳ Rodada 1 respondida (28/08/2026). Aguardando Rodadas 2–4. Nenhum roteiro será montado antes de o briefing estar confirmado pelo Artur.
+**Status:** ✅ **CONFIRMADO pelo Artur em 28/08/2026.** /goal ativo. Próxima etapa: matriz de candidatos (01-matriz.md) e /loop.
 
 ## Premissas conhecidas (seção 2 do prompt — a confirmar)
 
