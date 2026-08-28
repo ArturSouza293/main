@@ -69,8 +69,18 @@ Sempre que houver opções com custo, apresentar em três níveis com preço:
 4. Se chover: **troca por módulo indoor (museu)** — default aceito.
 5. **GPX da rota final: sim** — default aceito.
 
-### Rodada 4 — Documentos e risco
-_(pendente)_
+### Rodada 4 — Documentos e risco (respondida em 28/08/2026)
+
+1. **Habilitação brasileira, 27 anos de carteira**, com **tradução juramentada**. Passaporte: sim (implícito — viagem internacional). Nota do agente: na Alemanha, CNH + tradução juramentada é aceita para estadias curtas; a **PID (Permissão Internacional para Dirigir)** continua recomendada por ser barata e eliminar discussão com parceiro de aluguel e polícia (França inclusive). Cada anúncio DRIVAR será verificado quanto a exigências próprias de habilitação.
+2. **Cartão: Amex com limite tranquilo.** ⚠️ Ponto de atenção real: **muitos parceiros de aluguel na Alemanha não aceitam Amex para caução** (preferem Visa/Mastercard de crédito). Isso vira item de verificação obrigatório por anúncio no /loop; se houver só Amex, é risco de bloqueio na retirada.
+3. **Experiência com carros potentes: sim.** Sem restrição de recomendação por potência/tração.
+4. **Limites pessoais: nenhum.** (Mantém-se o guarda-corpo padrão de segurança do motorista solo.)
+
+---
+
+## ✅ Briefing pronto para confirmação
+
+Entrevista completa em 28/08/2026. Aguardando o Artur confirmar o resumo e digitar o `/goal` para liberar o /loop.
 
 ## Pesos dos critérios do /loop
 
