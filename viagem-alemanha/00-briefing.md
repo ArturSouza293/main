@@ -1,6 +1,6 @@
 # 00 — Briefing
 
-**Status:** 🔄 **REABERTO em 28/08/2026.** O Artur **rejeitou o 911 Carrera 4S** ("não gostei dessa Porsche") após a primeira entrega. Novas restrições: (1) **aluguel do fim de semana ~€700** (≈ €350/dia × 2 diárias); (2) antes de fechar o próximo roteiro, apresentar **todas as opções de carro dentro do range**. O desenho de rota/logística do Pacote A (Schwarzwald + museu, via Strasbourg) segue válido — troca-se o carro.
+**Status:** ✅ **CONCLUÍDO (v2) em 28/08/2026.** Após rejeitar o 911 C4S e fixar teto de €700/fds de aluguel, o Artur explorou hot hatches e **escolheu o VW Golf 8 GTI Clubsport c/ Akrapovič (DRIVAR Köln, €150/dia·200 km ⚠️)**. Pacote final: **Golf CS × Eifel/Ahr/Mosel via Köln**, Eurostar direto Paris↔Köln (1 trem só, ida ~18h4x ✅ pós-18h). Roteiro v2 (04), checklist v2 (05) e rota.gpx entregues. Risco nº 1 a resolver na reserva: **devolução no domingo ~16h** (padrão DRIVAR de fds vai até segunda). Custo total estimado ~€650–730 ⚠️.
 
 ## Premissas conhecidas (seção 2 do prompt — a confirmar)
 

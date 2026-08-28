@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="viagem-alemanha" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
-    <name>Road trip 18-20/09/2026 - 911 x Schwarzwald (Pacote A)</name>
-    <desc>Waypoints principais do roteiro. Coordenadas de POIs conhecidos com precisao aproximada (~100 m) - use os NOMES no GPS do carro/Google Maps como fonte primaria e as coordenadas como conferencia.</desc>
+    <name>Road trip 18-20/09/2026 - Golf GTI Clubsport x Eifel/Mosel (v2)</name>
+    <desc>Waypoints principais do roteiro. Coordenadas de POIs conhecidos com precisao aproximada (~100-300 m) - use os NOMES no GPS/Google Maps como fonte primaria e as coordenadas como conferencia.</desc>
   </metadata>
-  <wpt lat="48.7838" lon="9.1829"><name>Stuttgart Hbf</name><desc>Chegada trem sab 08:50 / partida dom 17:52</desc></wpt>
-  <wpt lat="48.8340" lon="9.1520"><name>Porsche Museum</name><desc>Porscheplatz 1, Zuffenhausen - sab 10h-12h</desc></wpt>
-  <wpt lat="48.7606" lon="8.2396"><name>Baden-Baden</name><desc>Entrada norte da B500 - sab ~13:30</desc></wpt>
-  <wpt lat="48.5970" lon="8.2005"><name>Mummelsee</name><desc>B500 - parada foto sab ~15h</desc></wpt>
-  <wpt lat="48.5673" lon="8.2274"><name>Ruhestein</name><desc>B500 - passo/mirante</desc></wpt>
-  <wpt lat="48.5390" lon="8.1970"><name>Allerheiligen</name><desc>Desvio opcional - cachoeiras</desc></wpt>
-  <wpt lat="48.4633" lon="8.4111"><name>Freudenstadt Marktplatz</name><desc>Hotel sab a noite (maior praca de mercado da Alemanha)</desc></wpt>
+  <wpt lat="50.9432" lon="6.9586"><name>Koeln Hbf</name><desc>Chegada Eurostar sex ~22h15 / partida dom ~18h44</desc></wpt>
+  <wpt lat="50.5181" lon="6.9910"><name>Altenahr</name><desc>Vale do Ahr - inicio das curvas, sab ~10h30</desc></wpt>
+  <wpt lat="50.3777" lon="6.9427"><name>Adenau</name><desc>Base do Nurburgring - almoco sab</desc></wpt>
+  <wpt lat="50.3560" lon="7.0090"><name>Brunnchen (mirante Nordschleife)</name><desc>Assistir Touristenfahrten - opcional</desc></wpt>
+  <wpt lat="50.3080" lon="7.0110"><name>Hohe Acht</name><desc>Ponto alto da Eifel - B258</desc></wpt>
+  <wpt lat="50.1469" lon="7.1664"><name>Cochem</name><desc>Hotel sab a noite (garagem) - Reichsburg</desc></wpt>
+  <wpt lat="50.1097" lon="7.2372"><name>Beilstein</name><desc>Vila medieval do Mosel - foto dom cedo</desc></wpt>
+  <wpt lat="50.0980" lon="7.1330"><name>Calmont</name><desc>Vinhedo mais ingreme da Europa - dom ~9h30</desc></wpt>
   <rte>
-    <name>Sabado: Stuttgart - Museu - B500 - Freudenstadt (~260 km)</name>
-    <rtept lat="48.7838" lon="9.1829"><name>Stuttgart Hbf</name></rtept>
-    <rtept lat="48.8340" lon="9.1520"><name>Porsche Museum</name></rtept>
-    <rtept lat="48.7606" lon="8.2396"><name>Baden-Baden</name></rtept>
-    <rtept lat="48.5970" lon="8.2005"><name>Mummelsee</name></rtept>
-    <rtept lat="48.5673" lon="8.2274"><name>Ruhestein</name></rtept>
-    <rtept lat="48.4633" lon="8.4111"><name>Freudenstadt</name></rtept>
+    <name>Sabado: Koeln - Ahr - Nurburgring - Mosel (~190 km)</name>
+    <rtept lat="50.9432" lon="6.9586"><name>Koeln (retirada)</name></rtept>
+    <rtept lat="50.5181" lon="6.9910"><name>Altenahr</name></rtept>
+    <rtept lat="50.3777" lon="6.9427"><name>Adenau</name></rtept>
+    <rtept lat="50.3560" lon="7.0090"><name>Brunnchen</name></rtept>
+    <rtept lat="50.3080" lon="7.0110"><name>Hohe Acht</name></rtept>
+    <rtept lat="50.1469" lon="7.1664"><name>Cochem</name></rtept>
   </rte>
   <rte>
-    <name>Domingo: Freudenstadt - B500 reversa - A5/A8 Autobahn - Stuttgart (~240 km)</name>
-    <rtept lat="48.4633" lon="8.4111"><name>Freudenstadt</name></rtept>
-    <rtept lat="48.5673" lon="8.2274"><name>Ruhestein</name></rtept>
-    <rtept lat="48.5970" lon="8.2005"><name>Mummelsee</name></rtept>
-    <rtept lat="48.7606" lon="8.2396"><name>Baden-Baden</name></rtept>
-    <rtept lat="48.7838" lon="9.1829"><name>Stuttgart Hbf / devolucao</name></rtept>
+    <name>Domingo: Cochem - Beilstein - Calmont - Eifel - Koeln (~210 km)</name>
+    <rtept lat="50.1469" lon="7.1664"><name>Cochem</name></rtept>
+    <rtept lat="50.1097" lon="7.2372"><name>Beilstein</name></rtept>
+    <rtept lat="50.0980" lon="7.1330"><name>Calmont</name></rtept>
+    <rtept lat="50.3080" lon="7.0110"><name>Eifel (B421/B258)</name></rtept>
+    <rtept lat="50.9432" lon="6.9586"><name>Koeln (devolucao)</name></rtept>
   </rte>
 </gpx>
