@@ -37,4 +37,30 @@ Todos os valores são ⚠️ estimativas de busca (drivar.de bloqueado na rede d
 
 ## Próximo passo
 
-O Artur escolhe A, B ou C → eu escrevo `04-roteiro-final.md` (hora a hora, links, plano B), `05-checklist.md` e o `rota.gpx`.
+~~O Artur escolhe A, B ou C~~ → **Superado: o Artur rejeitou o 911 C4S e fixou teto de €700/fds de aluguel. Ver comparativo final D × E abaixo.**
+
+---
+
+# Comparativo final (rodada 2, 28/08): Pacote D vs. Pacote E
+
+**Recomendação em uma frase: Pacote E — AMG C63S Cabrio × B500 (Karlsruhe), score 8,0 vs. 7,8 — a experiência vence a conveniência por pouco; se você valoriza acima de tudo a simplicidade do trem único, o D é totalmente defensável.**
+
+| | **D — BMW M2 × Taunus/Rheingau (Frankfurt)** | **E — AMG C63S Cabrio × B500 (Karlsruhe)** |
+|---|---|---|
+| Carro | BMW M2, 460 cv, RWD, o "M puro" de curva | C63S Cabrio, V8 4.0 biturbo ~510 cv (motor da família AMG GT), capota aberta |
+| Aluguel (2 diárias) | ~€698 ⚠️ (€349/dia, 200 km/dia) | ~€598 ⚠️ (€299/dia, 180 km/dia) |
+| Trem sexta | **1 trem direto ~19:07 → Frankfurt ~22h50** ⚠️ | 2 trens: ~18:25–19:25 → Strasbourg (pernoite) + ~8h → Karlsruhe ⚠️ |
+| Trem domingo | direto ~16h–17h → Paris ~20h30 ⚠️ (devolução ~14h30) | ~17h–19:06 via Strasbourg → Paris ~22h15 ⚠️ (devolução ~15h30) |
+| Sábado | Großer Feldberg → Wispertalstraße → Rheingau/vale do Reno (Rüdesheim, Loreley) ~200 km | Baden-Baden → **B500 Schwarzwaldhochstraße** completa → Mummelsee → Freudenstadt ~200 km |
+| Domingo | Klassikstadt ✅ (dom 10h–18h, grátis) + Autobahn A3/A5 ~180 km | B500 reversa vazia + Autobahn A5 ~180 km |
+| Km totais vs. inclusos | ~380 de 400 ✅ folga | ~380 de 360 ⚠️ (~€20–40 de km extra ou enxugar rota) |
+| Estradas/cenário | Taunus + Wispertal: curvas boas, cenário 7/10 | B500: curvas E cenário 9/10 — o melhor da matriz |
+| Módulo entusiasta | Klassikstadt (grátis, domingo) | o próprio carro (V8 aberto na serra) |
+| Restrições verificadas | Feldberg: bans históricos só p/ motos, janelas fora de 19–20/09 ⚠️ [bvdm.de, dados 2021/22] | Lochenpass n/a; B500 sem restrição a carros ⚠️ |
+| Hotéis | Frankfurt (sex) + Rheingau c/ garagem (sáb) ~€210 ⚠️ | Strasbourg (sex) + Freudenstadt c/ garagem (sáb) ~€190 ⚠️ |
+| **Custo total** | **~€1.100–1.250** ⚠️ | **~€1.010–1.160** ⚠️ |
+| Caução | ~€1.000–1.500 ⚠️ | ~€1.500–2.500 ⚠️ (Amex a confirmar — item nº 1) |
+| Riscos principais | domingo termina cedo (devolução 14h30); Taunus < B500 | conexão de domingo via Strasbourg ⚠️; km justos; caução maior |
+| **Scores** (pesos do briefing) | prazer 8,5 · encaixe 7,5 · logística 8 · custo 7 · risco 7,5 · entusiasta 7,5 → **7,8** | prazer 8,5 · encaixe 9 · logística 6,5 · custo 7,5 · risco 6,5 · entusiasta 9 → **8,0** |
+
+**Como decidir em uma pergunta:** o que você quer lembrar da viagem — *"dirigi um M2 afiado e vi o vale do Reno, tudo redondo"* (D) ou *"desci a Schwarzwaldhochstraße de capota aberta ouvindo um V8"* (E, pagando com uma troca de trem e a caução maior)?
