@@ -1,6 +1,6 @@
 # 00 — Briefing
 
-**Status:** ✅ **CONCLUÍDO em 28/08/2026.** Briefing confirmado → /loop rodou 9 iterações → top-3 estável → **Artur escolheu o Pacote A (911 Carrera 4S × Schwarzwald + Porsche Museum)** → roteiro final (04), checklist (05) e rota.gpx entregues. Falta só executar as reservas (ordem em 05-checklist.md).
+**Status:** 🔄 **REABERTO em 28/08/2026.** O Artur **rejeitou o 911 Carrera 4S** ("não gostei dessa Porsche") após a primeira entrega. Novas restrições: (1) **aluguel do fim de semana ~€700** (≈ €350/dia × 2 diárias); (2) antes de fechar o próximo roteiro, apresentar **todas as opções de carro dentro do range**. O desenho de rota/logística do Pacote A (Schwarzwald + museu, via Strasbourg) segue válido — troca-se o carro.
 
 ## Premissas conhecidas (seção 2 do prompt — a confirmar)
 

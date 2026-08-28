@@ -74,3 +74,31 @@
 | I9 | C7 (Mustang 1965, Stuttgart) × R1 | score 6,6 — descartado (risco de clássico) |
 
 **Matriz encerrada em 28/08/2026** — loop parado por estabilidade do top-3 (3 iterações sem mudança).
+
+---
+
+# REABERTURA (28/08): rodada 2 de carros — teto de aluguel ~€700/fim de semana
+
+O Artur rejeitou o 911 Carrera 4S e fixou teto de ~€700 para o aluguel (2 diárias). Nova varredura DRIVAR nas portas viáveis (todos os preços ⚠️ de busca 28/08; fim de semana pode ser mais caro):
+
+## Dentro do teto (~€700 ou menos nas 2 diárias)
+
+| id | Carro | Cidade | €/dia | €/fds (2d) | km/dia | Anúncio | Nota |
+|---|---|---|---|---|---|---|---|
+| N1 | **Mercedes-AMG C63S Cabrio** (V8 4.0 biturbo ~510 cv) | Karlsruhe | 299 ⚠️ | ~598 | 180 ⚠️ | [link](https://drivar.de/car/mercedes-benz-c63s-amg-cabrio-mieten-in-stuttgart) | V8 de AMG GT em cabrio, na porta da B500; km justos (360 vs. rota ~400) |
+| N2 | Mercedes-AMG C63 / C63S sedã/coupé | Stuttgart / **Baden-Baden** / Heidelberg | ab 349 ⚠️ | ~698 | 200 ⚠️ | [visão geral](https://drivar.de/mercedes-c63-amg-mieten/) | Baden-Baden = literalmente o km 0 da B500; verificar unidade exata |
+| N3 | **BMW M2** (Competition/G87) | Frankfurt | 349 ⚠️ | ~698 | 200 | [link](https://drivar.de/car/bmw-m2-mieten-in-frankfurt/) | O BMW M "puro" de curva; porta Frankfurt = Taunus/Rheingau, não Schwarzwald |
+| N4 | Audi RS3 Limousine (400 cv AWD) | Stuttgart | 299 ⚠️ | ~598 | 200 | [link](https://drivar.de/car/audi-rs3-mieten-stuttgart/) | Já testado (I3, score 7,9); o mais racional |
+| N5 | Porsche 718 Boxster/Cayman ("ab €199" ⚠️ teaser) | Stuttgart | 199–299? ⚠️ | ~400–600? | ? | [Porsche Stuttgart](https://drivar.de/porsche-mieten-stuttgart/) | Motor central, o melhor chassi da lista; modelo/preço real a confirmar no site |
+
+## Esticando (~€800 — ±€100 acima do teto)
+
+| id | Carro | Cidade | €/dia | €/fds | km/dia | Anúncio |
+|---|---|---|---|---|---|---|
+| C5 | Ford Mustang GT V8 Cabrio | Karlsruhe | 399 ⚠️ | ~798 | 250 | [link](https://drivar.de/car/ford-mustang-gt-cabrio-mieten/) |
+| C3 | Porsche 911 Carrera S Cabrio | Stuttgart | 399 ⚠️ | ~798 | 200 | [link](https://drivar.de/car/porsche-911-carrera-s-mieten-in-stuttgart/) |
+| C4 | Porsche 911 Turbo | Stuttgart | 399 ⚠️ | ~798 | 150 | [link](https://drivar.de/car/porsche-911-turbo-mieten-in-stuttgart/) |
+
+## Fora do teto (registrados e descartados)
+
+BMW M4 Competition Frankfurt €449–499 (~€900+) · BMW M3/M3 Touring Frankfurt (na faixa do M4 ⚠️) · AMG GT 63 Frankfurt €599 (~€1.200) · M2 München €399 / RS3 München €339 (porta inviável) · 911 Carrera 4S Stuttgart €259 (**rejeitado pelo Artur**).
