@@ -34,6 +34,13 @@ Em todos: reservar com cancelamento grátis e **só depois de o parceiro DRIVAR 
 | 13:00 | Almoço rápido em Adenau | pausa 1 |
 | 14:00 | **Hohe Acht → B259/B421 → vale do Mosel** | a descida para o rio é o cenário do dia |
 | 15:30 | **Cochem**: Reichsburg, orla do Mosel | check-in hotel com garagem ⚠️ (reservar com "Garage" por escrito) |
+
+**Hotéis sugeridos p/ sábado em Cochem (todos c/ estacionamento — confirmar "Garage/Tiefgarage" por escrito ⚠️):**
+- **OK ⭐ — [Moselstern Hotel Brixiade & Triton](https://www.trivago.com/en-US/oar/moselstern-hotel-brixiade-triton-cochem?search=100-163402)**: na margem do Mosel, centro a pé, **Tiefgarage própria** (paga) — o encaixe ideal.
+- **Econômico — [Hotel Haus Erholung](https://www.travelmyth.com/Cochem/Hotels/parking)**: 10 min a pé do centro, estacionamento amplo e grátis ⚠️ (aberto, não garagem — aceitável numa vila pequena).
+- **Alternativas** com serviço de estacionamento elogiado: [Hotel Villa Vinum](https://www.travelmyth.com/Cochem/Hotels/parking) · [Hotel Karl Müller](https://www.hotel-karl-mueller.de/service/).
+
+**Por que dormir em Cochem e não voltar a Köln:** evitar +150–200 km extras (estouraria os 2×200 km inclusos), zero direção noturna após dia cheio de curvas, e domingo começa já dentro do cenário do Mosel.
 | tarde | A pé: castelo + vinhedos; jantar livre | Riesling de bônus (sem dirigir depois!) |
 
 ## Domingo 20/09 — Mosel → Eifel → devolução → Paris (~210 km)
