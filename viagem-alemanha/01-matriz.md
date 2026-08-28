@@ -143,3 +143,23 @@ BMW M4 Competition Frankfurt €449–499 (~€900+) · BMW M3/M3 Touring Frankf
 | mietedeinsportauto.de | **sem pegada de avaliações** (ProvenExpert: 0 reviews) ❌ | 300+ carros | Preços atraentes (M2 CS €229), mas reputação não verificável — **rebaixado**: só com pesquisa adicional do parceiro específico |
 
 **Conclusão da auditoria:** para este trip, **CarVia Stuttgart** passa a ser a plataforma recomendada nº 1 (frota própria bem avaliada + M3 Touring ~€432/fds, muito abaixo do teto), com DRIVAR como fonte alternativa de carros específicos e Sixt como fallback de máxima previsibilidade.
+
+---
+
+# Rodada 3 (28/08): hot hatches modernos — a pedido do Artur
+
+Candidato indicado pelo Artur: **[VW Golf 8 GTI Clubsport c/ Akrapovič, Köln](https://en.drivar.de/car/rent-a-vw-golf-8-gti-clubsport-in-cologne/)** — **€150/dia, 200 km/dia** ⚠️ [drivar.de, 28/08] = **~€300/fds com 400 km**. 300 cv, o GTI mais afiado, escape de titânio. Melhor custo/experiência de toda a matriz.
+
+**Porta Köln (nova):** Eurostar direto Paris Nord→Köln **3h20** ✅; horários de sexta à noite e o último retorno de domingo (~19h4x → Paris ~23h ⚠️ **no limite**) a confirmar na compra — é o ponto crítico do pacote. Trecho: **R3 Eifel/Ahr/Mosel** (estradas feitas para hot hatch) + módulo Nordschleife possível: com €400 sobrando do teto, cabe **ring-taxi ou volta em carro de locadora de Ring** (o Artur aprovou 2º aluguel no briefing).
+
+## Hot hatches encontrados por plataforma
+
+| Carro | Onde | Preço | Nota |
+|---|---|---|---|
+| **Golf 8 GTI Clubsport Akrapovič** | DRIVAR **Köln** | **€150/dia, 200 km** ⚠️ | o do link do Artur; fds pode custar mais ⚠️; caução a confirmar |
+| Golf 8 GTI Clubsport | DRIVAR [Frankfurt](https://drivar.de/car/vw-golf-8-gti-clubsport-mieten-in-frankfurt/) / Hannover (tb. Akrapovič) / Hamm / München | ⚠️ | alternativas do mesmo carro em outras portas |
+| Golf 8 GTI (não-CS) | DRIVAR [Freiburg](https://drivar.de/car/vw-golf-8-gti-mieten-in-freiburg/) | ⚠️ | porta sul do Schwarzwald (Schauinsland!) — logística de trem fraca ⚠️ |
+| **Honda Civic Type R FL5** (329 cv) | DRIVAR [Düsseldorf](https://drivar.de/car/honda-civic-type-r-fl5-mieten-in-duesseldorf/) | ⚠️ | Düsseldorf fica a ~40 min de trem de Köln — compatível com a porta Köln |
+| Civic Type R FL5 | [Vermietung da Silva](https://vermietung-dasilva.de/) (especialista) | franquia €1.000, caução €2.500 ⚠️ | cidade/condições a confirmar |
+| **Toyota GR Yaris** (280 cv facelift, manual, AWD) | DRIVAR [Stuttgart](https://en.drivar.de/car/rent-a-toyota-gr-yaris-in-stuttgart/) | preço só na reserva ⚠️ | encaixaria no desenho B500 já pronto; mydays tem só experiência de 4h ❌ |
+| Toyota GR Corolla | — | — | **não é vendido na Europa** — indisponível para aluguel ❌ |
