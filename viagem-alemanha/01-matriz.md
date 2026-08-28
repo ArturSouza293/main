@@ -102,3 +102,33 @@ O Artur rejeitou o 911 Carrera 4S e fixou teto de ~€700 para o aluguel (2 diá
 ## Fora do teto (registrados e descartados)
 
 BMW M4 Competition Frankfurt €449–499 (~€900+) · BMW M3/M3 Touring Frankfurt (na faixa do M4 ⚠️) · AMG GT 63 Frankfurt €599 (~€1.200) · M2 München €399 / RS3 München €339 (porta inviável) · 911 Carrera 4S Stuttgart €259 (**rejeitado pelo Artur**).
+
+---
+
+# Plataformas além da DRIVAR (varredura 28/08 ⚠️)
+
+## Locadoras grandes (frota própria — máxima previsibilidade, Amex normalmente OK)
+
+| Plataforma | Onde | Frota esportiva | Nota |
+|---|---|---|---|
+| **Sixt Sports & Luxury** ([Frankfurt](https://www.sixt.com/luxury-cars/germany/frankfurt/) · [Stuttgart](https://www.sixt.com/luxury-cars/germany/stuttgart/)) | estações na Hbf e aeroporto | 911 Carrera GTS, M3/M5 ("Special Car"), AMG | preço dinâmico por data — cotar direto no site; termos corporativos, seguro claro, caução menor que especialistas ⚠️ |
+| Europcar Selection | [Stuttgart](https://www.europcar.com/en-us/p/car-rental/fleet/type/sport/stuttgart) | esportivos/premium | idem Sixt, frota menor |
+| STARCAR | [Karlsruhe](https://www.starcar.de/stationen/autovermietung-karlsruhe/sportwagen/) | Porsche, Audi, Maserati, Jaguar | locadora média nacional com esportivos NA porta da B500 |
+
+## Especialistas com frota própria (regionais, estabelecidos)
+
+| Plataforma | Onde | Nota |
+|---|---|---|
+| [CarVia](https://www.carvia.com/sports-car-rental/germany/stuttgart) | Stuttgart (base München) | locadora de esportivos estabelecida, preços/condições transparentes online |
+| [mach2cars](https://www.mach2cars.net/) | Großbettlingen (sul de Stuttgart) | atende Stuttgart–Karlsruhe–Baden-Baden; posição ótima p/ Schwäbische Alb |
+| [Motion Drive](https://motion-drive-vermietung.de/sportwagen-mieten-frankfurt/) · [Rent for Speed](https://rent-for-speed.de/sportwagen-mieten-frankfurt/) | Frankfurt | especialistas locais |
+
+## Marketplaces (modelo igual à DRIVAR — parceiro define condições)
+
+| Plataforma | Achados no teto €700/fds ⚠️ |
+|---|---|
+| [mietedeinsportauto.de](https://www.mietedeinsportauto.de/) (300+ carros DE/AT/CH) | **BMW M2 CS ab €229/dia (~€458/fds!)** em Frankfurt · C63S E Performance ab €399 · 911 Carrera Cabrio ab €449 |
+| [Drivable](https://www.drivable.app/) (app) | Stuttgart e Frankfurt — catálogo no app ⚠️ |
+| [sportwagen-mieten.de](https://www.sportwagen-mieten.de/shop/standorte/frankfurt-am-main/) | Frankfurt "ab €179" ⚠️ |
+
+**Hierarquia de confiabilidade:** Sixt/Europcar (termos corporativos, sem surpresa na caução) > especialistas com frota própria > marketplaces (DRIVAR incluída — a experiência depende do parceiro individual; avaliações do anúncio importam).
