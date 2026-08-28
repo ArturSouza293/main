@@ -1,13 +1,13 @@
 # 03 — Comparativo (top-3 atual)
 
-**Atualizado após I2 (28/08/2026).** Estabilidade do top-3: 0/3 iterações sem mudança.
+**Atualizado após revisão do TGV 17:54 (28/08/2026).** Estabilidade do top-3: 0/3 iterações sem mudança. **Regra nova:** nenhuma partida de Paris antes de ~18h; sexta padrão = TGV → Strasbourg + pernoite + trem curto sábado cedo.
 
 ## Top-3
 
 | Pos | Pacote | Nível | Score | Custo total est. | Status |
 |---|---|---|---|---|---|
-| 1 | **I1 — Porsche 911 Carrera 4S × Schwarzwald (B500)**, base Stuttgart | Econômico | 8,2 | ~€950–1.100 ⚠️ | líder |
-| 2 | I2 — Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe | OK | 7,5 | ~€1.180–1.300 ⚠️ | testado |
+| 1 | **I1 — Porsche 911 Carrera 4S × Schwarzwald (B500)**, base Stuttgart via Strasbourg | Econômico | 8,0 | ~€980–1.150 ⚠️ | líder (rev.) |
+| 2 | I2 — Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe via Strasbourg | OK | 7,5 | ~€1.200–1.320 ⚠️ | testado (rev.) |
 | 3 | — | | | | |
 
 ## Prós/contras — I2

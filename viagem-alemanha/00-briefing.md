@@ -19,7 +19,7 @@
 ### Rodada 1 — Janela e logística (respondida em 28/08/2026)
 
 1. **Fim de semana: 18–20/09/2026** (confirmado pelo Artur).
-2. Sair de Paris sexta a partir de **18h**; chegar de volta domingo até **23h** (default aceito).
+2. Sair de Paris sexta a partir de **18h**; chegar de volta domingo até **23h** (default aceito). **Atualização 28/08:** o Artur confirmou que **não consegue sair antes das 17:54** — o TGV direto das 17:54 (último direto do dia p/ Karlsruhe/Stuttgart) está **❌ eliminado**. Regra dura: só partidas de Paris ≥ ~18h. Padrão de sexta passa a ser: **TGV Paris→Strasbourg à noite (~1h46, vários após 18h ⚠️) + pernoite em Strasbourg + trem curto sábado cedo até a cidade de retirada** — ou voo de sexta à noite, comparado caso a caso.
 3. Deslocamento Paris ↔ Alemanha: **o que fechar melhor**, preferindo trem se a diferença for pequena (default aceito).
 4. **Orçamento: sem faixa fixa, mas espírito frugal** ("não quero gastar muito"). Regra derivada, permanente para a sessão: **toda escolha com custo é apresentada em 3 níveis — Econômico / OK / Premium** (carro, hotel, deslocamento, módulos, pacote final).
 5. Segundo aluguel específico para Nürburgring (locadora de Ring ou ring-taxi): **sim, se couber no orçamento** (default aceito).
