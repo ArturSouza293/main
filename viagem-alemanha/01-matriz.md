@@ -64,4 +64,5 @@
 | Iteração | Combinação | Resultado |
 |---|---|---|
 | I1 | C2 (911 Carrera 4S, Stuttgart) × R1 Schwarzwald + M4/M3/M5 | score 8,2 — líder atual |
-| I2 | C5 (Mustang GT Cabrio, Karlsruhe) × R1 Schwarzwald + M4/M5 | score 7,5 — 2º lugar |
+| I2 | C5 (Mustang GT Cabrio, Karlsruhe) × R1 Schwarzwald + M4/M5 | score 7,5 — 3º lugar |
+| I3 | C1 (Audi RS3, Stuttgart) × R2 Schwäbische Alb + M1/M3/M4/M5 | score 7,9 — 2º lugar |

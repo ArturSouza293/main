@@ -7,8 +7,13 @@
 | Pos | Pacote | Nível | Score | Custo total est. | Status |
 |---|---|---|---|---|---|
 | 1 | **I1 — Porsche 911 Carrera 4S × Schwarzwald (B500)**, base Stuttgart via Strasbourg | Econômico | 8,0 | ~€980–1.150 ⚠️ | líder (rev.) |
-| 2 | I2 — Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe via Strasbourg | OK | 7,5 | ~€1.200–1.320 ⚠️ | testado (rev.) |
-| 3 | — | | | | |
+| 2 | I3 — Audi RS3 × Schwäbische Alb + Porsche Museum, base Stuttgart via Strasbourg | Econômico | 7,9 | ~€980–1.110 ⚠️ | testado |
+| 3 | I2 — Mustang GT V8 Cabrio × Schwarzwald (B500), base Karlsruhe via Strasbourg | OK | 7,5 | ~€1.200–1.320 ⚠️ | testado (rev.) |
+
+## Prós/contras — I3
+
+**Prós:** pacote mais completo do funil (Porsche Museum ✅ + Burg Hohenzollern + Lochenpass sem motos ✅ + Autobahn A81 + trem direto de volta domingo); mais barato; RS3 AWD = zero estresse com chuva; caução menor.
+**Contras:** RS3 é o carro menos especial dos testados até aqui — pelo preço do 911 C4S (I1), entrega menos emoção; Alb tem cenário mais suave que a B500.
 
 ## Prós/contras — I2
 
@@ -22,7 +27,6 @@
 
 ## Próximas combinações na fila
 
-1. I3 — C1 Audi RS3 (Stuttgart) × R2 Schwäbische Alb + Porsche Museum — diversidade de trecho e o módulo museu.
-2. I4 — C6 BMW M4 Competition (Frankfurt) × R4 Taunus/Rheingau — terceira porta.
-3. I5 — Premium: C8 AMG GT 63 (Frankfurt) × R4 — quantificar o "sonho caro".
-4. I6 — refinamento do líder: 911 C4S × R1 com módulo Porsche Museum no sábado cedo.
+1. I4 — C6 BMW M4 Competition (Frankfurt) × R4 Taunus/Rheingau — terceira porta.
+2. I5 — Premium: C8 AMG GT 63 (Frankfurt) × R4 — quantificar o "sonho caro".
+3. I6 — refinamento do líder: 911 C4S × R1 com módulo Porsche Museum no sábado cedo (une o melhor de I1 e I3).

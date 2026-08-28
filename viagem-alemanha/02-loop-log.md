@@ -8,6 +8,7 @@ Uma linha por iteração. Detalhes da timeline e custos em 03-comparativo.md.
 |---|---|---|---|---|---|---|---|---|---|
 | I1 | C2 Porsche 911 Carrera 4S | Stuttgart | R1 Schwarzwald (B500) | M4 B500+fotos, M3 Autobahn A81 dom., M5 hotel c/ garagem | ~480 | ~7h30 (2 dias) | ~980–1.150 ⚠️ | **8,0** (rev.) | Líder; sexta re-modelada via Strasbourg após eliminação do TGV 17:54 |
 | I2 | C5 Ford Mustang GT V8 Cabrio | Karlsruhe | R1 Schwarzwald (B500) | M4 B500+fotos, M5 hotel c/ garagem | ~430 | ~7h (2 dias) | ~1.200–1.320 ⚠️ | **7,5** (rev.) | Vibe V8 aberto na B500, mas €140/dia mais caro que o 911; sexta via Strasbourg encaixa bem |
+| I3 | C1 Audi RS3 Limousine | Stuttgart | R2 Schwäbische Alb | M1 Porsche Museum, M4 Lochenpass/Hohenzollern, M3 Autobahn A81, M5 hotel | ~380 | ~6h30 (2 dias) | ~980–1.110 ⚠️ | **7,9** | Pacote mais "completo" (museu+castelo+curvas+Autobahn) e barato; RS3 entrega menos emoção que o 911 pelo mesmo preço |
 
 ## Notas da iteração I1 (28/08/2026)
 
@@ -39,3 +40,12 @@ Uma linha por iteração. Detalhes da timeline e custos em 03-comparativo.md.
 **Custo linha a linha (EUR):** aluguel ~798 [estimativa: €399×2, anúncio 28/08] · combustível ~105 [estimativa: 430 km, ~13 l/100] · trem ~90–160 ⚠️ · hotéis ~190 ⚠️ · **total ~1.180–1.300** ⚠️ · (caução ~1.000–2.000 ⚠️, Amex a confirmar).
 
 **Scores (rev. 28/08):** prazer 8 · encaixe 8 · logística 7 (padrão Strasbourg natural p/ esta porta; risco da conexão de domingo permanece) · custo 6,5 · risco 7 · entusiasta 8 → **ponderado 7,5**. Custo revisto: **~€1.200–1.320** ⚠️ (hotel Strasbourg + trem curto).
+
+## Notas da iteração I3 (28/08/2026)
+
+**Timeline:** Sex TGV ~18:25–19:25 → Strasbourg, hotel ⚠️ · Sáb trem ~7h30 → Stuttgart ~8h50 ⚠️ · retirada ~9h15 ⚠️ · **Porsche Museum 10h–12h** ✅ [porsche.com, 28/08: ter–dom 10h–18h, ingresso €15, early bird €12] · A81 sul → **Burg Hohenzollern** (parada de foto, ~14h) → **Lochenpass (L440)** e passes da Alb ✅ [proibição de fim de semana abr–out vale só p/ motos, sentido Weilstetten→Tieringen; carros livres — e com menos motos; schwaebischealb.org + motorradundreisen.de, 28/08] → hotel região Balingen/Hechingen c/ garagem ⚠️ (~200 km no dia).
+Dom: passes da Alb vazios de manhã → **A81 norte** módulo Autobahn (trechos sem limite ⚠️ a confirmar placa a placa) → devolução Stuttgart ~15h → TGV direto ~17:52 → Paris ~21h ✅ ⚠️ (~180 km no dia).
+
+**Custo linha a linha (EUR):** aluguel ~598 [estimativa: €299×2, anúncio 28/08] · combustível ~70 [estimativa: 380 km, ~9,5 l/100] · trem ~110–180 ⚠️ · hotéis ~190 ⚠️ · Porsche Museum 15 ✅ · **total ~980–1.110** ⚠️ · (caução ~1.000 ⚠️, menor que a de um 911; Amex a confirmar).
+
+**Scores:** prazer 8 · encaixe 8 · logística 7 · custo 8 · risco 8 · entusiasta 8,5 → **ponderado 7,9**.
