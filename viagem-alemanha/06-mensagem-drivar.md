@@ -1,4 +1,34 @@
-# 06 — Mensagem para o parceiro DRIVAR (VW Golf 8 R, Frankfurt)
+# 06 — Mensagens para a DRIVAR (VW Golf 8 R, Frankfurt)
+
+## 0. Booking change request (English) — trocar reserva existente (Golf CS Köln → Golf 8 R Frankfurt)
+
+Subject: Booking change request — [booking ref. #XXXX] — switch to VW Golf 8 R in Frankfurt, weekend 18–20 Sep 2026
+
+Hello DRIVAR team,
+
+I have a booking request/reservation for the VW Golf 8 GTI Clubsport in Cologne (booking ref.: [XXXX], made on [date], under the name Artur [sobrenome]) for the weekend of 18–20 September 2026.
+
+I would like to change this reservation to the VW Golf 8 R in Frankfurt instead, same dates: https://en.drivar.de/car/rent-a-vw-golf-8-r-in-frankfurt/
+
+Could you please confirm the following for the Frankfurt Golf 8 R before finalizing the change:
+
+1. Availability for 19–20 September (I arrive at Frankfurt Hbf on Friday ~22:50 by train from Paris);
+2. Handover on Saturday between 8:30–9:00 — ideally delivered to my hotel near the main station (I can confirm the hotel address once the booking is set). If delivery isn't possible, please send the pickup address and earliest Saturday time;
+3. Return on Sunday around 14:00–14:30 — this is essential for me, as my train back to Paris leaves in the late afternoon. Please confirm in writing that a Sunday return is possible;
+4. Total weekend price, included kilometres and extra-km rate (I plan ~360 km, Taunus/Rheingau, Germany only);
+5. Deposit amount and whether it can be placed on an American Express card — if not, Visa/Mastercard or cash;
+6. Insurance deductible and options to reduce it;
+7. That my Brazilian driving licence (held for 27 years), with a certified German translation and an International Driving Permit, is acceptable.
+
+If there is any difference in price or conditions between the two bookings, please let me know before confirming. No track use and no cross-border driving — country roads in Germany only.
+
+Thank you, and I look forward to your confirmation.
+
+Best regards,
+Artur [sobrenome]
+[telefone/WhatsApp] · [e-mail da reserva]
+
+---
 
 Anúncio: https://en.drivar.de/car/rent-a-vw-golf-8-r-in-frankfurt/
 Enviar pelo formulário do anúncio ou e-mail. Versão em alemão (recomendada) e inglês.
