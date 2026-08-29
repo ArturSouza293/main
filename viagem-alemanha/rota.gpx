@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="viagem-alemanha" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
-    <name>Road trip 18-20/09/2026 - Golf GTI Clubsport x Eifel/Mosel (v2)</name>
+    <name>Road trip 18-20/09/2026 - Golf 8 R x Taunus/Rheingau (v3)</name>
     <desc>Waypoints principais do roteiro. Coordenadas de POIs conhecidos com precisao aproximada (~100-300 m) - use os NOMES no GPS/Google Maps como fonte primaria e as coordenadas como conferencia.</desc>
   </metadata>
-  <wpt lat="50.9432" lon="6.9586"><name>Koeln Hbf</name><desc>Chegada Eurostar sex ~22h15 / partida dom ~18h44</desc></wpt>
-  <wpt lat="50.5181" lon="6.9910"><name>Altenahr</name><desc>Vale do Ahr - inicio das curvas, sab ~10h30</desc></wpt>
-  <wpt lat="50.3777" lon="6.9427"><name>Adenau</name><desc>Base do Nurburgring - almoco sab</desc></wpt>
-  <wpt lat="50.3560" lon="7.0090"><name>Brunnchen (mirante Nordschleife)</name><desc>Assistir Touristenfahrten - opcional</desc></wpt>
-  <wpt lat="50.3080" lon="7.0110"><name>Hohe Acht</name><desc>Ponto alto da Eifel - B258</desc></wpt>
-  <wpt lat="50.1469" lon="7.1664"><name>Cochem</name><desc>Hotel sab a noite (garagem) - Reichsburg</desc></wpt>
-  <wpt lat="50.1097" lon="7.2372"><name>Beilstein</name><desc>Vila medieval do Mosel - foto dom cedo</desc></wpt>
-  <wpt lat="50.0980" lon="7.1330"><name>Calmont</name><desc>Vinhedo mais ingreme da Europa - dom ~9h30</desc></wpt>
+  <wpt lat="50.1069" lon="8.6629"><name>Frankfurt Hbf</name><desc>Chegada sex ~22h50 / partida dom ~16h-17h</desc></wpt>
+  <wpt lat="50.1793" lon="8.4653"><name>Koenigstein im Taunus</name><desc>Aquecimento sab ~9h45</desc></wpt>
+  <wpt lat="50.2323" lon="8.4563"><name>Grosser Feldberg</name><desc>Mirante do Taunus - foto sab ~10h15</desc></wpt>
+  <wpt lat="50.2670" lon="8.4450"><name>Schmitten (Weiltal B275)</name><desc>Curvas do vale do Weil</desc></wpt>
+  <wpt lat="50.1410" lon="8.0690"><name>Bad Schwalbach</name><desc>Entrada da Wispertalstrasse</desc></wpt>
+  <wpt lat="50.0450" lon="7.9210"><name>Lorch am Rhein (fim Wispertal)</name><desc>Melhor trecho tecnico - sab ~13h</desc></wpt>
+  <wpt lat="49.9790" lon="7.9250"><name>Ruedesheim am Rhein</name><desc>Almoco sab / Parkhotel (garagem) sab a noite</desc></wpt>
+  <wpt lat="50.1390" lon="7.7290"><name>Loreley</name><desc>Mirante do Reno - foto sab ~15h30</desc></wpt>
+  <wpt lat="50.0400" lon="8.1180"><name>Eltville / Kloster Eberbach</name><desc>Vinhedos - opcao dom cedo</desc></wpt>
+  <wpt lat="50.1237" lon="8.7450"><name>Klassikstadt Frankfurt</name><desc>Orber Str. 4a - dom 11h, gratis</desc></wpt>
   <rte>
-    <name>Sabado: Koeln - Ahr - Nurburgring - Mosel (~190 km)</name>
-    <rtept lat="50.9432" lon="6.9586"><name>Koeln (retirada)</name></rtept>
-    <rtept lat="50.5181" lon="6.9910"><name>Altenahr</name></rtept>
-    <rtept lat="50.3777" lon="6.9427"><name>Adenau</name></rtept>
-    <rtept lat="50.3560" lon="7.0090"><name>Brunnchen</name></rtept>
-    <rtept lat="50.3080" lon="7.0110"><name>Hohe Acht</name></rtept>
-    <rtept lat="50.1469" lon="7.1664"><name>Cochem</name></rtept>
+    <name>Sabado: Frankfurt - Taunus - Wispertal - Reno (~190 km)</name>
+    <rtept lat="50.1069" lon="8.6629"><name>Frankfurt (retirada)</name></rtept>
+    <rtept lat="50.1793" lon="8.4653"><name>Koenigstein</name></rtept>
+    <rtept lat="50.2323" lon="8.4563"><name>Grosser Feldberg</name></rtept>
+    <rtept lat="50.2670" lon="8.4450"><name>Schmitten/Weiltal</name></rtept>
+    <rtept lat="50.1410" lon="8.0690"><name>Bad Schwalbach</name></rtept>
+    <rtept lat="50.0450" lon="7.9210"><name>Lorch (Wispertal)</name></rtept>
+    <rtept lat="49.9790" lon="7.9250"><name>Ruedesheim</name></rtept>
+    <rtept lat="50.1390" lon="7.7290"><name>Loreley</name></rtept>
+    <rtept lat="49.9790" lon="7.9250"><name>Ruedesheim (hotel)</name></rtept>
   </rte>
   <rte>
-    <name>Domingo: Cochem - Beilstein - Calmont - Eifel - Koeln (~210 km)</name>
-    <rtept lat="50.1469" lon="7.1664"><name>Cochem</name></rtept>
-    <rtept lat="50.1097" lon="7.2372"><name>Beilstein</name></rtept>
-    <rtept lat="50.0980" lon="7.1330"><name>Calmont</name></rtept>
-    <rtept lat="50.3080" lon="7.0110"><name>Eifel (B421/B258)</name></rtept>
-    <rtept lat="50.9432" lon="6.9586"><name>Koeln (devolucao)</name></rtept>
+    <name>Domingo: Ruedesheim - Rheingau - Klassikstadt - devolucao (~170 km)</name>
+    <rtept lat="49.9790" lon="7.9250"><name>Ruedesheim</name></rtept>
+    <rtept lat="50.0400" lon="8.1180"><name>Eltville/Kloster Eberbach</name></rtept>
+    <rtept lat="50.1237" lon="8.7450"><name>Klassikstadt</name></rtept>
+    <rtept lat="50.1069" lon="8.6629"><name>Frankfurt (devolucao)</name></rtept>
   </rte>
 </gpx>

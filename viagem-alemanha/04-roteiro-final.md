@@ -1,85 +1,72 @@
-# 04 — Roteiro final v2: VW Golf 8 GTI Clubsport (Akrapovič) × Eifel/Mosel
+# 04 — Roteiro final v3: VW Golf 8 R (Frankfurt) × Taunus/Rheingau
 
-**Fim de semana 18–20/09/2026 · Paris → Köln → Eifel/Ahr/Mosel → Paris · motorista solo**
-Carro: [Golf 8 GTI Clubsport, DRIVAR Köln](https://en.drivar.de/car/rent-a-vw-golf-8-gti-clubsport-in-cologne/) — €150/dia, 200 km/dia ⚠️ (preço de fds e caução a confirmar na reserva).
-Legenda: ✅ verificado (fonte, 28/08/2026) · ⚠️ estimado — confirmar na reserva. Horários de trem: confirmar no [eurostar.com](https://www.eurostar.com/us-en/train/paris-to-cologne)/SNCF Connect ao comprar.
+**Fim de semana 18–20/09/2026 · Paris → Frankfurt → Taunus/Rheingau/vale do Reno → Paris · motorista solo**
+Carro: [VW Golf 8 R, DRIVAR Frankfurt](https://en.drivar.de/car/rent-a-vw-golf-8-r-in-frankfurt/) — 320 cv, **AWD**, drift mode; preço/km/caução ⚠️ a confirmar na reserva (Golf R na DRIVAR varia €99–249/dia por praça).
+Legenda: ✅ verificado (fonte, 28/08/2026) · ⚠️ estimado — confirmar. Trens: confirmar no SNCF Connect/bahn.de ao comprar.
 
-## Por que a retirada é em Köln e como chegar
+## Logística-chave (diferenças vs. plano Köln)
 
-- **Eurostar direto Paris Nord → Köln Hbf, ~3h20–3h30** ✅, ~5/dia. A última partida da noite sai ~**18h4x–18h5x** ⚠️ → chegada ~**22h15** — encaixa no seu "≥18h" com trem único, sem conexão.
-- Chegando 22h15, **a retirada é sábado de manhã** (~9h ⚠️): nenhum parceiro entrega carro às 22h30 de sexta. O anúncio oferece **entrega no hotel** — na reserva, pergunte se entregam sábado ~8h30 no seu hotel; senão, retirada no endereço do parceiro (vem no voucher).
-- ⚠️ Nota: houve obras Aachen–Köln afetando o Eurostar até ~julho/2026 [seat61, 28/08] — deve estar resolvido em setembro, mas confirme ao comprar.
+- **Ida:** trem direto **Paris Est ~19:07 → Frankfurt Hbf ~22h50** ⚠️ (rota via Saarbrücken–Mannheim; 3h38–3h54) — trem único, sem conexão, pós-18h ✅.
+- **Volta:** o retorno de domingo de Frankfurt é **mais cedo** que o de Köln: último trem direto seguro sai ~**16h–17h** ⚠️ (o das 20:35 chega 02:45 ❌) → **devolução do carro ~14h15–14h30**. Domingo é mais curto — o roteiro compensa concentrando a serra no sábado.
+- AWD: chuva deixa de ser preocupação de tração ✅.
 
-## Sexta 18/09 — Paris → Köln
-
-| Hora | O quê | Notas |
-|---|---|---|
-| 18:00 | Saída para a Gare du Nord | |
-| ~18:4x–18:5x ⚠️ | **Eurostar direto → Köln Hbf** | comprar cedo — Eurostar sobe de preço rápido ⚠️; leve o da tarde anterior como plano B se o horário real não servir |
-| ~22:15 ⚠️ | Chegada Köln · hotel a pé da Hbf (catedral do lado) | sem carro esta noite; garagem desnecessária |
-
-**Hotéis sugeridos p/ sexta (pedir a entrega do carro no endereço escolhido):**
-- **Econômico — [ibis Köln am Dom](https://all.accor.com/hotel/0739/index.en.shtml)** (~€70–100 ⚠️): integrado à própria Hbf — você desce do Eurostar e está "em casa"; ponto de entrega: Breslauer Platz (lado norte da estação, acessível de carro).
-- **OK — Wyndham Köln** (Breslauer Platz 2, ~€120–150 ⚠️): na praça atrás da Hbf, com acesso de carro na porta — o ponto de encontro mais cômodo para a entrega.
-- **Premium — Excelsior Hotel Ernst** (Trankgasse 1-5, ~€250+ ⚠️): 5★ de frente para o Dom/Hbf, com driveway e concierge para receber o carro.
-Em todos: reservar com cancelamento grátis e **só depois de o parceiro DRIVAR confirmar carro + entrega**; passar ao parceiro o endereço do hotel + seu WhatsApp.
-
-## Sábado 19/09 — Köln → vale do Ahr → Nürburgring → Mosel (~190 km)
+## Sexta 18/09 — Paris → Frankfurt
 
 | Hora | O quê | Notas |
 |---|---|---|
-| 09:00 ⚠️ | **Retirada do Golf CS** (parceiro ou entrega no hotel) | fotografar carro + odômetro; conferir Super Plus |
-| 09:30 | Köln → A1/A61 sul → **vale do Ahr**: Altenahr → Ahrweiler | primeiras curvas no vale de vinhedos |
-| 11:30 | **B258 → região do Nürburgring**: Adenau, mirante da Nordschleife (Brünnchen ⚠️) | ver Touristenfahrten de fora; ring-taxi/volta em carro de Ring = módulo opcional ([calendário](https://www.nuerburgring.de) ⚠️) — o Golf DRIVAR **não** pode entrar na pista |
-| 13:00 | Almoço rápido em Adenau | pausa 1 |
-| 14:00 | **Hohe Acht → B259/B421 → vale do Mosel** | a descida para o rio é o cenário do dia |
-| 15:30 | **Cochem**: Reichsburg, orla do Mosel | check-in hotel com garagem ⚠️ (reservar com "Garage" por escrito) |
+| 18:15 | Saída para a Gare de l'Est | |
+| ~19:07 ⚠️ | **Trem direto → Frankfurt Hbf** | comprar cedo; verificar horário exato do dia |
+| ~22:50 ⚠️ | Chegada · hotel a pé da Hbf | **Motel One Frankfurt-Hauptbahnhof** ou ibis Centrum ⚠️ (~€90–120); aviso: o quarteirão da Hbf (Bahnhofsviertel) é feio à noite mas seguro no trajeto curto — ou Motel One Römer, 15 min a pé, área melhor |
 
-**Hotéis sugeridos p/ sábado em Cochem (todos c/ estacionamento — confirmar "Garage/Tiefgarage" por escrito ⚠️):**
-- **OK ⭐ — [Moselstern Hotel Brixiade & Triton](https://www.trivago.com/en-US/oar/moselstern-hotel-brixiade-triton-cochem?search=100-163402)**: na margem do Mosel, centro a pé, **Tiefgarage própria** (paga) — o encaixe ideal.
-- **Econômico — [Hotel Haus Erholung](https://www.travelmyth.com/Cochem/Hotels/parking)**: 10 min a pé do centro, estacionamento amplo e grátis ⚠️ (aberto, não garagem — aceitável numa vila pequena).
-- **Alternativas** com serviço de estacionamento elogiado: [Hotel Villa Vinum](https://www.travelmyth.com/Cochem/Hotels/parking) · [Hotel Karl Müller](https://www.hotel-karl-mueller.de/service/).
-
-**Por que dormir em Cochem e não voltar a Köln:** evitar +150–200 km extras (estouraria os 2×200 km inclusos), zero direção noturna após dia cheio de curvas, e domingo começa já dentro do cenário do Mosel.
-| tarde | A pé: castelo + vinhedos; jantar livre | Riesling de bônus (sem dirigir depois!) |
-
-## Domingo 20/09 — Mosel → Eifel → devolução → Paris (~210 km)
+## Sábado 19/09 — Taunus → Wispertal → Rheingau/Reno (~190 km)
 
 | Hora | O quê | Notas |
 |---|---|---|
-| 08:30 | Cochem → **Beilstein** (vila medieval, foto) → **Calmont** (vinhedo mais íngreme da Europa) | Mosel vazio de manhã |
-| 10:30 | Subida de volta à **Eifel** via B421 → estradas vazias de domingo (sem caminhões ✅) | melhor trecho de direção do dia |
-| 12:30 | Eifel norte → A1 sentido Köln · **trecho de Autobahn** ⚠️ (velocidade livre só onde sinalizado) | almoço rápido na rota |
-| 14:45 | **Abastecer Super Plus** perto da devolução (guardar recibo) | |
-| 15:30–16:00 ⚠️ | **Devolução em Köln** (confirmar horário de domingo com o parceiro na reserva — crítico!) | fotos + odômetro (meta ≤400 km ✅ folga de ~0) |
-| ~18:44 ⚠️ | **Eurostar Köln → Paris Nord** | ✅ chega ~22h14, dentro do limite de 23h; o das ~16:43 é o plano B seguro (chega ~20h13) — decida pelo que o parceiro confirmar de devolução |
-| ~22:14 ⚠️ | Chegada Paris | |
+| 08:45 ⚠️ | **Entrega/retirada do Golf R** (pedir entrega no hotel na reserva) | fotos 360° + odômetro; Super Plus |
+| 09:15 | Frankfurt → Königstein im Taunus (A66/B8) | aquecimento |
+| 10:00 | **Großer Feldberg** (mirante, foto) → Schmitten → **Weiltal (B275)** | curvas do Taunus; restrições históricas de fds valem só p/ motos ⚠️ [bvdm.de] |
+| 12:00 | Bad Schwalbach → **Wispertalstraße (L3033)** → Lorch | o melhor trecho de curvas da região — estreito, técnico, floresta fechada |
+| 13:30 | **Rüdesheim am Rhein** — almoço rápido na Drosselgasse | pausa |
+| 14:30 | **B42 vale do Reno** ao norte: Assmannshausen → Bacharach (margem oposta à vista) → **Loreley** (mirante, ~15h30) | castelo atrás de castelo; foto do dia |
+| 16:30 | Volta pela B42 → **Rüdesheim** | fim de tarde no Reno |
+| 17:30 | Check-in **[Parkhotel Rüdesheim](https://parkhotel-ruedesheim.de/)** (Rheinstraße 21–23, 4★, **garagem** ⚠️ confirmar por escrito) | na margem do Reno, 100 m da Drosselgasse; alternativas: Hotel Lindenwirt, Rüdesheimer Hof |
+
+## Domingo 20/09 — Rheingau → Klassikstadt → devolução → Paris (~170 km)
+
+| Hora | O quê | Notas |
+|---|---|---|
+| 08:30 | **Wispertalstraße reversa** vazia ou vinhedos do Rheingau (Eltville, Kloster Eberbach) | manhã de estrada limpa |
+| 10:30 | → Frankfurt via A66 · **[Klassikstadt](https://www.klassikstadt.de/)** (Orber Str. 4a) 11h–12h30 | ✅ dom 10h–18h, **entrada grátis** — clássicos + oficinas de restauração |
+| 12:45 | **Módulo Autobahn A5/A3** (velocidade livre só onde sinalizado ⚠️; domingo sem caminhões ✅) + almoço rápido | |
+| 13:50 | **Abastecer Super Plus** perto da devolução (recibo!) | |
+| 14:15–14:30 ⚠️ | **Devolução** — confirmar horário de domingo com o parceiro (crítico!) | fotos + odômetro |
+| ~16h–17h ⚠️ | **Trem direto Frankfurt → Paris** | chega ~20h30 ✅ folga ampla sobre o limite de 23h |
 
 ## Km e custo
 
-Total ~400 km = exatamente os 2×200 km inclusos ✅ (folga zero — vigiar odômetro; cada km extra é cobrado ⚠️).
+Total ~360 km ⚠️ (folga se os km inclusos forem 2×200; confirmar na reserva — se forem 150/dia, planejar corte do trecho Loreley).
 
 | Item | EUR | Base |
 |---|---|---|
-| Aluguel Golf CS 2 diárias | ~300 | [estimativa: €150×2; fds pode ser mais caro ⚠️] |
-| Combustível Super Plus | ~65 | [estimativa: 400 km, ~8 l/100] |
-| Eurostar ida+volta | ~100–180 | [estimativa: comprando já] |
-| Hotéis (Köln + Cochem, garagem) | ~180 | ⚠️ |
-| **Total** | **~650–730** | ⚠️ — bem abaixo do teto |
-| (Caução imobilizada) | a confirmar na reserva ⚠️ | **perguntar se aceita Amex** |
-| Módulo opcional Ring | +€30–35 (volta Touristenfahrten em carro próprio ❌ não se aplica) · ring-taxi ~€250–300 ⚠️ · volta em carro de locadora de Ring (Rent4Ring/RSR) ~€200+ ⚠️ | cabe no orçamento se quiser |
+| Aluguel Golf 8 R 2 diárias | ~300–500 ⚠️ | [Golf R na DRIVAR: €99–249/dia conforme praça; valor de Frankfurt a confirmar] |
+| Combustível Super Plus | ~65 | [estimativa: 360 km, ~9 l/100] |
+| Trem Paris↔Frankfurt | ~100–190 ⚠️ | comprar já |
+| Hotéis (Frankfurt + Parkhotel Rüdesheim) | ~220 ⚠️ | |
+| Klassikstadt | 0 ✅ | grátis |
+| **Total** | **~700–950** ⚠️ | dentro do teto se o aluguel vier ≤ €500 |
+| (Caução) | a confirmar ⚠️ | **perguntar Amex** |
 
 ## Plano B
 
-- **Chuva:** o Golf CS é FWD com diff — chuva moderada ok, só recalibrar o ritmo. Tempestade: trocar Eifel da manhã de domingo por mais Mosel (estradas de vale, menos exposição).
-- **Trem de sexta perdido:** próximo só sábado ~7h ⚠️ (chega ~10h30 — roteiro encolhe mas sobrevive; avisar o parceiro).
-- **Carro indisponível:** exigir substituto do parceiro/DRIVAR; alternativas mapeadas: [Type R FL5 em Düsseldorf](https://drivar.de/car/honda-civic-type-r-fl5-mieten-in-duesseldorf/) (~40 min de trem) e Golf CS em Frankfurt.
-- **Devolução de domingo recusada pelo parceiro** (fim de semana DRIVAR = sex→seg): é o **risco nº 1 deste pacote** — confirmar POR ESCRITO antes de pagar. Se só devolver segunda, o pacote não fecha: nesse caso, voltar ao GR Yaris de Stuttgart.
-- **Eurostar 18:44 esgotado/cancelado:** 16:43 (chega 20h13) ou via Bruxelas com conexão ⚠️.
+- **Chuva:** o Golf R é AWD — segue o plano; tempestade: mais tempo na Klassikstadt e vinhedos em vez do Wispertal.
+- **Trem de sexta perdido:** ~20h1x via conexão ⚠️ ou primeiro de sábado (~6h; chega ~10h — roteiro encolhe).
+- **Carro indisponível:** alternativas na mesma porta: [Golf CS Frankfurt](https://drivar.de/car/vw-golf-8-gti-clubsport-mieten-in-frankfurt/) · [BMW M2 Frankfurt](https://drivar.de/car/bmw-m2-mieten-in-frankfurt/) (€349/200km ⚠️); plano C: GR Yaris SC-Sportwagen (Stuttgart).
+- **Devolução de domingo recusada:** risco nº 1 — sem ela, voltar ao Golf CS de Köln (devolução 16h) ou GR Yaris.
+- **Trem de domingo:** se só houver o de ~16h, devolução 14h15; se houver ~17h, ganha-se 1h de Rheingau.
 
 ## Contatos e links
 
-- Anúncio: https://en.drivar.de/car/rent-a-vw-golf-8-gti-clubsport-in-cologne/ (contato do parceiro no voucher)
-- Eurostar: https://www.eurostar.com · DB Navigator p/ trens locais
-- Nürburgring (calendário Touristenfahrten): https://www.nuerburgring.de ⚠️
-- Locadoras de Ring (módulo opcional): https://www.rent4ring.de · https://rsrnurburg.com
+- Anúncio: https://en.drivar.de/car/rent-a-vw-golf-8-r-in-frankfurt/
+- Klassikstadt: https://www.klassikstadt.de/ (dom 10h–18h, grátis ✅)
+- Parkhotel Rüdesheim: https://parkhotel-ruedesheim.de/
+- Trens: https://www.sncf-connect.com · https://www.bahn.de

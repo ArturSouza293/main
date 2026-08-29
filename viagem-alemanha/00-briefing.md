@@ -1,6 +1,6 @@
 # 00 — Briefing
 
-**Status:** ✅ **CONCLUÍDO (v2) em 28/08/2026.** Após rejeitar o 911 C4S e fixar teto de €700/fds de aluguel, o Artur explorou hot hatches e **escolheu o VW Golf 8 GTI Clubsport c/ Akrapovič (DRIVAR Köln, €150/dia·200 km ⚠️)**. Pacote final: **Golf CS × Eifel/Ahr/Mosel via Köln**, Eurostar direto Paris↔Köln (1 trem só, ida ~18h4x ✅ pós-18h). Roteiro v2 (04), checklist v2 (05) e rota.gpx entregues. Risco nº 1 a resolver na reserva: **devolução no domingo ~16h** (padrão DRIVAR de fds vai até segunda). Custo total estimado ~€650–730 ⚠️.
+**Status:** ✅ **CONCLUÍDO (v3) em 28/08/2026.** Trajetória: 911 C4S rejeitado → teto €700/fds → hot hatches → Golf CS Köln (v2) → **troca final para o VW Golf 8 R (DRIVAR Frankfurt, 320 cv AWD, preço ⚠️ a confirmar)**. Pacote final: **Golf 8 R × Taunus/Wispertal/Rheingau via Frankfurt**, trem direto Paris Est ~19:07 (1 trem só ✅). Devolução domingo ~14h15 (volta de Frankfurt é mais cedo) → trem ~16h–17h → Paris ~20h30. Roteiro v3 (04), checklist v3 (05), mensagem ao parceiro (06) e rota.gpx entregues. Riscos nº 1: devolução no domingo + preço real do anúncio. Custo total estimado ~€700–950 ⚠️. Fallbacks: Golf CS Köln (roteiro v2 no histórico do git) · GR Yaris SC-Sportwagen Stuttgart.
 
 ## Premissas conhecidas (seção 2 do prompt — a confirmar)
 
