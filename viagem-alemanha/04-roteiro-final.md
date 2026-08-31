@@ -16,13 +16,13 @@ Legenda: ✅ verificado (fonte, 28/08/2026) · ⚠️ estimado — confirmar. Tr
 |---|---|---|
 | 18:15 | Saída para a Gare de l'Est | |
 | ~19:07 ⚠️ | **Trem direto → Frankfurt Hbf** | comprar cedo; verificar horário exato do dia |
-| ~22:50 ⚠️ | Chegada · hotel a pé da Hbf | **Motel One Frankfurt-Hauptbahnhof** ou ibis Centrum ⚠️ (~€90–120); aviso: o quarteirão da Hbf (Bahnhofsviertel) é feio à noite mas seguro no trajeto curto — ou Motel One Römer, 15 min a pé, área melhor |
+| ~22:50 ⚠️ | Chegada → **Motel One Frankfurt-Römer** (Berliner Str. 55) | HOTEL DEFINIDO: centro/Altstadt, 15 min a pé da Hbf ou 2 paradas de S-Bahn até Hauptwache; **Tiefgarage própria 120 vagas €21/24h** ✅ [parkopedia 28/08] (backups: Parkhaus Kaiserplatz €25, 200 m) — funciona tanto p/ retirada sáb 8h30 (preferida: vistoria com luz do dia) quanto p/ entrega sex ~23h se o parceiro preferir; ~€100–140 ⚠️ |
 
 ## Sábado 19/09 — Taunus → Wispertal → Rheingau/Reno (~190 km)
 
 | Hora | O quê | Notas |
 |---|---|---|
-| 08:45 ⚠️ | **Entrega/retirada do Golf R** (pedir entrega no hotel na reserva) | fotos 360° + odômetro; Super Plus |
+| 08:30–08:45 ⚠️ | **Retirada do Golf R** — carro "quite central" (parceiro); entrega no Motel One Römer ou retirada a pé/curta | fotos 360° + odômetro À LUZ DO DIA; se a entrega for sexta ~23h, fazer a vistoria mesmo assim com lanterna e câmera |
 | 09:15 | Frankfurt → Königstein im Taunus (A66/B8) | aquecimento |
 | 10:00 | **Großer Feldberg** (mirante, foto) → Schmitten → **Weiltal (B275)** | curvas do Taunus; restrições históricas de fds valem só p/ motos ⚠️ [bvdm.de] |
 | 12:00 | Bad Schwalbach → **Wispertalstraße (L3033)** → Lorch | o melhor trecho de curvas da região — estreito, técnico, floresta fechada |
